@@ -1,0 +1,1 @@
+Trying out CSS grid for first time. Need to add some responsivness to change the grid layout for smaller screens, but over all happy and easy to use. Got the baseline layout using the tool here: https://www.layoutit.com/grid
